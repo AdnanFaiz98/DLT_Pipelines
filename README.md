@@ -31,7 +31,7 @@ Procedure: Creating and Running a DLT Pipeline
 
 #### 4. DLT Pipeline Creation
    a. Prepare DLT pipelines using the tutorial provided ([Tutorial Link](https://dlthub.com/docs/build-a-pipeline-tutorial)).
-   b. Utilize three different approaches:
+   b. Here we utilized three different approaches:
       - **DLT_Pipeline**: Python notebook created using Jupyter Notebook.
       - **DLT_Pipeline_2**: Python notebook created using Google Colab.
       - **DLT_Pipeline_3**: Python script executed from the command prompt in a virtual environment.
@@ -48,5 +48,3 @@ Procedure: Creating and Running a DLT Pipeline
 - Ensure Python and 'pip' are correctly installed as per the DLT requirements.
 - Activate the virtual environment before installing or running the DLT library.
 - The three pipeline approaches demonstrate the versatility of DLT usage across different environments.
-
-This step-by-step guide summarizes the process of setting up the environment, creating pipelines, and running them using various approaches to leverage the DLT library functionalities. Adjust the steps as needed based on your specific setup and use case.
