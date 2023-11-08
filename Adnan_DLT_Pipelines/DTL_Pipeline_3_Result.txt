@@ -1,0 +1,5 @@
+(env) C:\Users\adnan\Python>python DLT_Pipeline_3.py
+Pipeline dlt_DLT_Pipeline_3 completed in 0.87 seconds
+1 load package(s) were loaded to destination duckdb and into dataset countries_ds
+The duckdb destination used duckdb:///C:\Users\adnan\Python\dlt_DLT_Pipeline_3.duckdb location to store data
+Load package 1699465019.722256 is LOADED and contains no failed jobs
